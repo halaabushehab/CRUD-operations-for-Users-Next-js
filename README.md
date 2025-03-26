@@ -1,1 +1,2 @@
-# CRUD-operations-for-Users-Next-js
+Next.js CRUD Product Management with MongoDB
+This is a simple Next.js application that demonstrates how to build a CRUD (Create, Read, Update, Delete) system for managing products with MongoDB. This is perfect for beginners who want to practice or learn how to handle CRUD operations in Next.js with a backend connected to MongoDB.
